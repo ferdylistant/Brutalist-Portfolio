@@ -2,7 +2,8 @@ import Hero from "./Sections/Hero";
 import About from "./Sections/About";
 import Projects from "./Sections/Projects";
 import Contact from "./Sections/Contact";
-import BrutalCursor from "../../components/BrutalCursor";
+import BrutalCursor from '@/Components/BrutalCursor';
+
 
 export default function Portfolio() {
     return (
